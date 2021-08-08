@@ -6,3 +6,7 @@
 📫 How to reach me alatkar.mrunal@gmail.com
 
 👨‍💻 This is my portfolio website
+
+Mini Projects
+
+1️⃣  https://mrunal3.github.io/mazeOnline/

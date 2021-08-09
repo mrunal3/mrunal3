@@ -1,4 +1,6 @@
-# Mrunal
+<div align="center"><h1>👋 Hi, I’m Mrunal Alatkar </h1></div>
+<div align="center"><h3>Aspiring full stack web developer</h3></div>
+
 🔭 I'm currently working on aws-amplify framework
 
 🌱 I skilled in Full-Stack Development, React, Redux, Node js, MongoDB

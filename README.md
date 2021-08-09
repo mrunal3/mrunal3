@@ -26,3 +26,11 @@
 Mini Projects
 
 1️⃣  https://mrunal3.github.io/mazeOnline/
+
+Certifications
+
+1️⃣ [Responsive Web Design](https://www.freecodecamp.org/certification/mrunal/responsive-web-design)
+
+2️⃣ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mrunal/javascript-algorithms-and-data-structures)
+
+

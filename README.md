@@ -19,6 +19,9 @@
 &nbsp;&nbsp;[<img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></img>](https://www.w3.org/html/)
 &nbsp;&nbsp;[<img width="40px" height="40px" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"></img>](https://postman.com/)
 
+### Connect with me:
+[<img width="32px" height="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></img>](https://www.linkedin.com/in/mrunal-a-10459698/)
+
 
 Mini Projects
 

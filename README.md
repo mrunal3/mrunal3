@@ -23,10 +23,6 @@
 [<img width="32px" height="32px" src="https://image.flaticon.com/icons/png/512/174/174857.png"></img>](https://www.linkedin.com/in/mrunal-a-10459698/)
 
 
-Mini Projects
-
-1️⃣  https://mrunal3.github.io/mazeOnline/
-
 Certifications
 
 1️⃣ [Responsive Web Design](https://www.freecodecamp.org/certification/mrunal/responsive-web-design)
